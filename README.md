@@ -1,4 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[![@akmaltezar's Holopin board](https://holopin.me/akmaltezar)](https://holopin.io/@akmaltezar)
 <h1 align="center">Hi 👋, I'm Akmal Tezar</h1>
 <h3 align="center">Learn to Love, Love to Learn</h3>
 <img align="right" alt="Technology" width="300" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FCTX0ivSQbI78A%2Fgiphy.gif&f=1&nofb=1">
