@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmaltezar&label=Profile%20views&color=0e75b6&style=flat" alt="akmaltezar" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning <img align="center" src="https://masteringjs.io/assets/images/vue/vue-transparent.png" alt="vuejs" height="30" width="40" />
 
 - 📫 How to reach me **akmalremake007@gmail.com**
 
