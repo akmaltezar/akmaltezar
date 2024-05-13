@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **VueJS**
 
-- 📫 How to reach me **akmalremake007@gmail.com**
+- 📫 How to reach me **akmaltezar007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
